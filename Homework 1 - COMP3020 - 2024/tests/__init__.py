@@ -1,0 +1,2 @@
+from .decision_tree_test import DecisionTreeTestCaseGini,DecisionTreeTestCaseIG
+from .k_nearest_neighbors_test import KNNTestCase,EpsilonBallTestCase
